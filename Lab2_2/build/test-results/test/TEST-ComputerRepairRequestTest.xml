@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComputerRepairRequestTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-06T13:14:33" hostname="PCRISTI" time="0.033">
+  <properties/>
+  <testcase name="First Test" classname="ComputerRepairRequestTest" time="0.028"/>
+  <testcase name="Test Exemplu" classname="ComputerRepairRequestTest" time="0.002"/>
+  <system-out><![CDATA[testul 1 ok testul 2 ok]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

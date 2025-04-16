@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a96fafc3-24ad-4442-ad3f-748c7ee9aa34/console.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/LabProiect/src/main/java/ro/mpp2024/Repo/CazCaritabilDBRepo.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/LabProiect/src/main/java/ro/mpp2024/Repo/DonatieDBRepo.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/LabProiect/src/main/java/ro/mpp2024/Repo/DonatorDBRepo.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/LabProiect/src/main/java/ro/mpp2024/Repo/VoluntarDBRepo.java" dialect="GenericSQL" />
+  </component>
+</project>
