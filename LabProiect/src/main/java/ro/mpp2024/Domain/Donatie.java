@@ -6,8 +6,8 @@ public class Donatie extends Entity<Integer> {
     private CazCaritabil caz;
     private float suma;
 
-    public Donatie(Integer idDonatie, Donator donator, CazCaritabil caz, float suma) {
-        super(idDonatie);
+    public Donatie(Donator donator, CazCaritabil caz, float suma) {
+        super(null);
         this.donator = donator;
         this.caz = caz;
         this.suma = suma;

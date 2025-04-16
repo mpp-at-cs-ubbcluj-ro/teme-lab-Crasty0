@@ -19,6 +19,10 @@ public class CazCaritabil extends Entity<Integer>{
         return sumaStransa;
     }
 
+    public void setSumaStransa(Double suma){
+        this.sumaStransa = suma;
+    }
+
     @Override
     public String toString() {
         return "CazCaritabil{" +

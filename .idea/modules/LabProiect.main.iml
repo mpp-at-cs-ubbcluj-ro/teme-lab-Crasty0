@@ -7,7 +7,10 @@
       <sourceFolder url="file://$MODULE_DIR$/../../LabProiect/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../LabProiect/src/main/resources" type="java-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="openjdk-21" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.xerial:sqlite-jdbc:3.41.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
   </component>
 </module>
